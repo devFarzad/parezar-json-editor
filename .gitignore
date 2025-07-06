@@ -1,0 +1,7 @@
+node_modules
+.next
+# Local environment variables
+.env
+.env.local
+
+# Service account keys
